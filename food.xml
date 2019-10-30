@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="food.xsl"?>
+
+<food_pairings>
+
+<beeflamb>
+    <cut>Rib Eye</cut>
+    <taste>Deeply beefy and juicy, well-marbled fat and high degree of tenderness</taste>
+    <temperature>Medium rare</temperature>
+    <sauce></sauce>
+    <wine>Napa Valley Cabernet Sauvignon, California Syrah or a spicy Zinfandel</wine>
+</beeflamb>
+
+<beeflamb>
+    <cut>New York Strip</cut>
+    <taste>Lots of beefy flavor, tender with a nice balance of lean meat to fat</taste>
+    <temperature>Medium rare</temperature>
+    <sauce></sauce>
+    <wine>Cabernet Sauvignon</wine>
+</beeflamb>
+
+<beeflamb>
+    <cut>Porterhouse</cut>
+    <taste>Buttery on the tenderloin side, beefy and juicy on the strip side</taste>
+    <temperature>Medium rare</temperature>
+    <sauce></sauce>
+    <wine>Syrah-based wines</wine>
+</beeflamb>
+
+<beeflamb>
+    <cut>Filet Mignon</cut>
+    <taste>Tender, lean, buttery in flavor</taste>
+    <temperature>Medium rare</temperature>
+    <sauce></sauce>
+    <wine>A moderately aged Burgundy or light Pinot Noir</wine>
+</beeflamb>
+
+</food_pairings> 
+
+<!--  
+<beeflamb>
+    <cut name="Rib Eye">
+    <taste>Deeply beefy and juicy, well-marbled fat and high degree of tenderness</taste>
+    <temperature>Medium rare</temperature>
+    <sauce></sauce>
+    <wine>Napa Valley Cabernet Sauvignon, California Syrah or a spicy Zinfandel</wine>
+</beeflamb>
+-->

@@ -1,0 +1,454 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<wineDetail>
+
+<wine>
+  <name>Campari</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1></grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes> 
+  <type>apéritif</type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country>Italy</country>
+    <region></region>
+    <subregion></subregion>
+  </origin> 
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+<wine>
+  <name>Dubonnet</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1></grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes> 
+  <type>apéritif</type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country>France</country>
+    <region></region>
+    <subregion></subregion>
+  </origin> 
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+<wine>
+  <name>Lillet</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1></grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes> 
+  <type>apéritif</type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country>France</country>
+    <region>Bordeaux</region>
+    <subregion></subregion>
+  </origin> 
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+<wine>
+  <name>Cava</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Macabeo</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Sparkling</type>
+  <style>Light Body</style>
+  <properties>
+    <residualsugar>Brut Nature, Extra Brut, Brut, Semi Seco</residualsugar>
+    <tannins>None</tannins>
+    <acidity>High</acidity>
+    <abv>10-11.5%</abv>
+  </properties>  
+  <origin>
+    <country>Spain</country>
+    <region>Penedès</region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Tapas and paella, but also amazing with Mexican food and get this, red bean chili</foodpairing>
+  <tastingnotes>Quince, Lime, TYellow Apple, Chamomile and Almond</tastingnotes>
+</wine>
+
+<wine>
+  <name>Champagne</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Chardonnay</grape1>
+    <grape2>Pinot Noir</grape2>
+    <grape3>Pinot Meunier</grape3>
+  </grapes>  
+  <type>Sparkling</type>
+  <style>Light Body</style>
+  <properties>
+    <residualsugar>Brut Nature, Extra Brut, Brut, Extra Druy, Dry, Demi-Sec, Doux</residualsugar>
+    <tannins>None</tannins>
+    <acidity>High</acidity>
+    <abv>10-11.5%</abv>
+  </properties> 
+  <origin>
+    <country>France</country>
+    <region>Champagne</region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Just about anything that’s salty, fried or fishy</foodpairing>
+  <tastingnotes>Citrus (Meyer lemon), yellow pomaceous fruits (like yellow pear and apple), cream, almond and toast</tastingnotes>
+</wine>
+
+<wine>
+  <name>Proseco</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Prosecco</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Sparkling</type>
+  <style>Light Body</style>
+  <properties>
+    <residualsugar>Dry, Extra Dry, Brut</residualsugar>
+    <tannins>None</tannins>
+    <acidity>Medium-high</acidity>
+    <abv>11.5-13.5%</abv>
+  </properties>  
+  <origin>
+    <country>Italy</country>
+    <region>Veneto, Fruili Venezia Giulia</region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Antipasto, cured meats, almonds. It’s also a natural pairing with spicy Asian food</foodpairing>
+  <tastingnotes>CGreen Apple, honeydew, pear, lager and cream,</tastingnotes>
+</wine>
+
+<wine>
+  <name>Chardonnay</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Chardonnay</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes> 
+  <type>White</type>
+  <style>Medium-full Body</style>
+  <properties>
+    <residualsugar>Dry</residualsugar>
+    <tannins>None</tannins>
+    <acidity>Medium</acidity>
+    <abv>13.5-15%</abv>
+  </properties>  
+  <origin>
+    <country>France</country>
+    <region>Burgundy</region>
+    <subregion></subregion>
+  </origin> 
+  <foodpairing>Lobster, crab, shrimp, chicken, pork, mushroom, French, cream sauces, soft cheeses such as triple cream brie, medium-firm cheeses like Gruyère
+  </foodpairing>
+  <tastingnotes>Yellow citrus (Meyer lemon), yellow pomaceous fruits (like yellow pear and apple), tropical fruits (banana, pineapple), and often a touch of butterscotch, vanilla or toasted caramel notes from oak</tastingnotes>
+</wine>
+
+<wine>
+  <name>Sauvignon Blanc</name>
+    <additionalname>Fume Blanc</additionalname>
+  <grapes>
+    <grape1>Sauvignon Blanc</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes> 
+  <type>White</type>
+  <style>Light-medium Body</style>
+  <properties>
+    <residualsugar>Dry</residualsugar>
+    <tannins>None</tannins>
+    <acidity>High</acidity>
+    <abv>11.5-13.5%</abv>
+  </properties>  
+  <origin>
+    <country>France</country>
+    <region>Bordeaux</region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Fish, chicken, pork, veal, Mexican, Vietnamese, French, herb-crusted goat cheese, nutty cheeses such as Gruyère</foodpairing>
+  <tastingnotes>Aggressively-citrus-driven (grapefruit pith), with some exotic fruits (honeydew melon, passion fruit, kiwi) and always an herbaceous quality (grass, mint, green pepper)</tastingnotes>
+</wine>
+
+<wine>
+  <name>Pinot Gris</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Pinot Gris</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>White</type>
+  <style>Light Body</style>
+  <properties>
+    <residualsugar>Dry</residualsugar>
+    <tannins>None</tannins>
+    <acidity>Mediun-igh</acidity>
+    <abv>11.5-13.5%</abv>
+  </properties>  
+  <origin>
+    <country>France</country>
+    <region>Burgundy</region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Salad, delicate poached fish, light and mild cheeses</foodpairing>
+  <tastingnotes>Delicate citrus (lime water, orange zest)  and pomaceous fruits (apple skin, pear sauce), white floral notes, and cheese rind (from lees usage)</tastingnotes>
+</wine>
+
+<wine>
+  <name></name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Rosé</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type></type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country></country>
+    <region></region>
+    <subregion></subregion>
+  </origin> 
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+<wine>
+  <name></name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Rosé</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type></type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country></country>
+    <region></region>
+    <subregion></subregion>
+  </origin> 
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+<wine>
+  <name></name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Rosé</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type></type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country></country>
+    <region></region>
+    <subregion></subregion>
+  </origin> 
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+<wine>
+  <name>Cabernet Sauvignon</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Cabernet Franc</grape1>
+    <grape2>Sauvignon Blanc</grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Red</type>
+  <style>Full-Body</style>
+  <properties>
+    <residualsugar>Dry</residualsugar>
+    <tannins>Medium-high</tannins>
+    <acidity>Medium</acidity>
+    <abv>13.5-15%</abv>
+  </properties>  
+  <origin>
+    <country>France</country>
+    <region>Bordeaux</region>
+    <subregion></subregion>
+  </origin> 
+  <foodpairing>Lamb, beef, smoked meats, French, American, firm cheeses like aged cheddar and hard cheeses like Pecorino</foodpairing>
+  <tastingnotes>Black Cherry, Black Currant, Baking Spices, and Cedar</tastingnotes>
+</wine>
+
+<wine>
+  <name>Zinfandel</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Zinfandel</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Red</type>
+  <style>Medium-full Body</style>
+  <properties>
+    <residualsugar>Dry</residualsugar>
+    <tannins>Medium-high</tannins>
+    <acidity>Medium-low</acidity>
+    <abv>over 15%</abv>
+  </properties>  
+  <origin>
+    <country>Croatia</country>
+    <region></region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Chicken, pork, cured meat, lamb, beef, barbecue, Italian, American, Chinese, Thai, Indian, full-flavored like cheddar and firm cheeses such as Manchego</foodpairing>
+  <tastingnotes>A broad, exotic array of fruits from stone (overripe nectarine), to red (raspberry, sour cherry), to blue (plum,  
+  blueberry), to black (blackberry, boysenberry), Asian 5 Spice Powder, Sweet Tobacco</tastingnotes>
+</wine>
+
+<wine>
+  <name>Pinot Noir</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Pinot Noir</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Red</type>
+  <style>Medium Body</style>
+  <properties>
+    <residualsugar>Dry</residualsugar>
+    <tannins>Low</tannins>
+    <acidity>Medium-high</acidity>
+    <abv>11.5-13.5%</abv>
+  </properties>  
+  <origin>
+    <country>France</country>
+    <region>Burgundy</region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Chicken, pork, veal, duck, cured meat, French, German, cream sauces, soft cheeses, nutty medium-firm cheeses like Gruyère</foodpairing>
+  <tastingnotes>Very red fruited (cherry, cranberry) and red-floral (rose), often with appealing vegetal notes of beet, rhubarb, or mushroom</tastingnotes>
+</wine>
+
+<wine>
+  <name></name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1></grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Dessert</type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country></country>
+    <region></region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+<wine>
+  <name></name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1></grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Dessert</type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country></country>
+    <region></region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+<wine>
+  <name></name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1></grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Dessert</type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country></country>
+    <region></region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
