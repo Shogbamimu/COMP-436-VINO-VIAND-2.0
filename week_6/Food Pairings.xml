@@ -1,34 +1,46 @@
 
-<FOOD_PAIRINGS>
+<food_pairinga>
 	
-	<BEEF_LAMB>
-	  <CUT></CUT>
-    <TASTE></TASTE>
-    <TEMPEARATURE></TEMPEARATURE>>
-    <SAUCE></SAUCE>
-    <WINE></WINE>
-  </BEEF_LAMB>
-	<CHEESE></CHEESE>
-	<DESSERT></DESSERT>
-	<FRUIT></FRUIT>
-	<GAME>
-		<CUT></CUT>
-    <TASTE></TASTE>
-    <TEMPEARATURE></TEMPEARATURE>>
-    <SAUCE></SAUCE>
-    <WINE></WINE>
-	</GAME>
-	<NOODLES_PASTA_RICE></NOODLES_PASTA_RICE>
-	<PORK>
-		<CUT></CUT>
-    <TASTE></TASTE>
-    <TEMPEARATURE></TEMPEARATURE>>
-    <SAUCE></SAUCE>
-    <WINE></WINE>
-	</PORK>
-	<POULTRY></POULTRY>
-	<SALAD></SALAD>
-	<SEAFOOD></SEAFOOD>
-	<SOUP></SOUP>
-	<VEGETABLES></VEGETABLES>
-</FOOD_PAIRINGS>
+	<beef_lamb>
+		<cut></cut>
+    <taste></taste>
+    <temperature></temperature>>
+    <sauce></sauce>
+    <wine></wine>
+  </beef_lamb>
+	
+	<cheese></cheese>
+	
+	<dessert></dessert>
+	
+	<fruit></fruit>
+	
+	<game>
+		<cut></cut>
+    <taste></taste>
+    <temperature></temperature>>
+    <sauce></sauce>
+    <wine></wine>
+	</game>
+	
+	<noodles_pasta_rice></noodles_pasta_rice>
+	
+	<pork>
+		<cut></cut>
+    <taste></taste>
+    <temperature></temperature>>
+    <sauce></sauce>
+    <wine></wine>
+	</pork>
+	
+	<poultry></poultry>
+	
+	<salad></salad>
+	
+	<seafood></seafood>
+	
+	<soup></soup>
+	
+	<vegetables></vegetables>
+
+</food_pairings>
