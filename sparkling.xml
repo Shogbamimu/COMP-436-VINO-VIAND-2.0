@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="assets/xsl/sparkling.xsl"?> 
+<wineDetail>
+  
+<!-- SPARKLING -->
+
+<wine>
+  <name>Cava</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Macabeo</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Sparkling</type>
+  <style>Light Body</style>
+  <properties>
+    <residualsugar>Brut Nature, Extra Brut, Brut, Semi Seco</residualsugar>
+    <tannins>None</tannins>
+    <acidity>High</acidity>
+    <abv>10-11.5%</abv>
+  </properties>  
+  <origin>
+    <country>Spain</country>
+    <region>Penedès</region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Tapas and paella, but also amazing with Mexican food and get this, red bean chili</foodpairing>
+  <tastingnotes>Quince, Lime, TYellow Apple, Chamomile and Almond</tastingnotes>
+</wine>
+
+<wine>
+  <name>Champagne</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Chardonnay</grape1>
+    <grape2>Pinot Noir</grape2>
+    <grape3>Pinot Meunier</grape3>
+  </grapes>  
+  <type>Sparkling</type>
+  <style>Light Body</style>
+  <properties>
+    <residualsugar>Brut Nature, Extra Brut, Brut, Extra Druy, Dry, Demi-Sec, Doux</residualsugar>
+    <tannins>None</tannins>
+    <acidity>High</acidity>
+    <abv>10-11.5%</abv>
+  </properties> 
+  <origin>
+    <country>France</country>
+    <region>Champagne</region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Just about anything that’s salty, fried or fishy</foodpairing>
+  <tastingnotes>Citrus (Meyer lemon), yellow pomaceous fruits (like yellow pear and apple), cream, almond and toast</tastingnotes>
+</wine>
+
+<wine>
+  <name>Proseco</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Prosecco</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Sparkling</type>
+  <style>Light Body</style>
+  <properties>
+    <residualsugar>Dry, Extra Dry, Brut</residualsugar>
+    <tannins>None</tannins>
+    <acidity>Medium-high</acidity>
+    <abv>11.5-13.5%</abv>
+  </properties>  
+  <origin>
+    <country>Italy</country>
+    <region>Veneto, Fruili Venezia Giulia</region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Antipasto, cured meats, almonds. It’s also a natural pairing with spicy Asian food</foodpairing>
+  <tastingnotes>CGreen Apple, honeydew, pear, lager and cream,</tastingnotes>
+</wine>
+
+
+</wineDetail>
