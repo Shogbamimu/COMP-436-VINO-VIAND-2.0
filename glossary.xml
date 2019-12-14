@@ -1,81 +1,87 @@
-<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml version="10" encoding="ISO-8859-1"?>
 
 <glossary>
-	<acidity>The liveliness and crispness in wine that activates our salivary glands</acidity>
+	<lexicon id="065">
 
-	<aeration>The deliberate addition of oxygen to round out and soften a wine</aeration>
+		<acidity>The liveliness and crispness in wine that activates our salivary gland</acidity>
 
-	<aging>Holding wine in barrels, tanks, and bottles to advance them to a more desirable state</aging>
+		<aeration>The deliberate addition of oxygen to round out and soften a wine</aeration>
 
-	<alcohol>Ethanol (ethyl alcohol), the product of fermentation of sugars by yeast</alcohol>
+		<aging>Holding wine in barrels, tanks, and bottles to advance them to a more desirable state</aging>
 
-	<alcohol>The end product of fermentation; technically ethyl alcohol resulting from the interaction of natural grape sugars and yeast; generally above 12.5 percent in dry table wines</alcohol>
+		<alcohol>Ethanol (ethyl alcohol), the product of fermentation of sugars by yeast</alcohol>
 
-	<alsace>A highly regarded wine region in eastern France renowned for dry and sweet wines made from Riesling, Gewuerztraminer, Pinot Blanc, Pinot Gris, and others</alsace>
+		<alcohol>The end product of fermentation; technically ethyl alcohol resulting from the interaction of natural grape sugars and yeast; generally above 125 percent in dry table wines</alcohol>
 
-	<amarone>A succulent higher-alcohol red wine hailing from the Veneto region in northern Italy; made primarily from Corvina grapes dried on racks before pressing</amarone>
+		<alsace>A highly regarded wine region in eastern France renowned for dry and sweet wines made from Riesling, Gewuerztraminer, Pinot Blanc, Pinot Gris, and others</alsace>
 
-	<anosmia>The loss of smell</anosmia>
+		<amarone>A succulent higher-alcohol red wine hailing from the Veneto region in northern Italy; made primarily from Corvina grapes dried on racks before pressing</amarone>
 
-	<aoc>Appellation diOrigine Controlee, a French term for a denominated, governed wine region such as Margaux or Nuits-St.-Georges</aoc>
+		<anosmia>The loss of smell</anosmia>
 
-	<appellation>A delineated wine producing region particular to France</appellation>
+		<aoc>Appellation diOrigine Controlee, a French term for a denominated, governed wine region such as Margaux or Nuits-St-Georges</aoc>
 
-	<aroma>A scent thatis a component of the bouquet or nose; i.e. cherry is an aromatic component of a fruity bouquet</aroma>
+		<appellation>A delineated wine producing region particular to France</appellation>
 
-	<astringent>Tasting term noting the harsh, bitter, and drying sensations in the mouth caused by high levels of tannin</astringent>
+		<aroma>A scent thatis a component of the bouquet or nose; ie cherry is an aromatic component of a fruity bouquet</aroma>
 
-	<ava>American Viticultural Area; a denominated American wine region approved by the Bureau of Alcohol, Tobacco, and Firearms</ava>
+		<astringent>Tasting term noting the harsh, bitter, and drying sensations in the mouth caused by high levels of tannin</astringent>
 
-	<bacchus>The Roman god of wine, known as Dionysus in ancient Greece; a hybrid white grape from Germany</bacchus>
+		<ava>American Viticultural Area; a denominated American wine region approved by the Bureau of Alcohol, Tobacco, and Firearms</ava>
 
-	<balance>The level of harmony between acidity, tannins, fruit, oak, and other elements in a wine; a perceived quality that is more individual than scientific</balance>
+	</lexicon>
+		<lexicon id="066">
 
-	<barrel>The oak container used for fermenting and aging wine</barrel>
+		<bacchus>The Roman god of wine, known as Dionysus in ancient Greece; a hybrid white grape from Germany</bacchus>
 
-	<barrel_fermented>A process by which wine (usually white) is fermented in oak barrels rather than in stainless steel tanks; a richer, creamier, oakier style of wine</barrel_fermented>
+		<balance>The level of harmony between acidity, tannins, fruit, oak, and other elements in a wine; a perceived quality that is more individual than scientific</balance>
 
-	<barrique>A 225-litre oak barrel used originally for storing and aging wines, originating in Bordeaux</barrique>
+		<barrel>The oak container used for fermenting and aging wine</barrel>
 
-	<beaujolais>A juicy, flavorful red wine made from Gamay grapes grown in the region of the same name</beaujolais>
+		<barrel_fermented>A process by which wine (usually white) is fermented in oak barrels rather than in stainless steel tanks; a richer, creamier, oakier style of wine</barrel_fermented>
 
-	<beaujolais_nouveau>The first Beaujolais wine of the harvest; its annual release date is the third Thursday in November</beaujolais_nouveau>
+		<barrique>A 225-litre oak barrel used originally for storing and aging wines, originating in Bordeaux</barrique>
 
-	<blanc_de_blancs>The name for Champagne made entirely from Chardonnay grapes</blanc_de_blancs>
+		<beaujolais>A juicy, flavorful red wine made from Gamay grapes grown in the region of the same name</beaujolais>
 
-	<blanc_de_noirs>The name for Champagne made entirely from red grapes, either Pinot Noir or Pinot Meunier, or both.</blanc_de_noirs>
+		<beaujolais_nouveau>The first Beaujolais wine of the harvest; its annual release date is the third Thursday in November</beaujolais_nouveau>
 
-	<bitter>A taste sensation that is sensed on the back of the tongue and caused by tannins</bitter>
+		<blanc_de_blancs>The name for Champagne made entirely from Chardonnay grapes</blanc_de_blancs>
 
-	<blend>The process whereby two or more grape varieties are combined after separate fermentation</blend>
+		<blanc_de_noirs>The name for Champagne made entirely from red grapes, either Pinot Noir or Pinot Meunier, or both</blanc_de_noirs>
 
-	<blush>A wine made from red grapes but which appears pink or salmon in color because the grape skins were removed from the fermenting juice before more color could be imparted; more commonly referred to as rose</blush>
+		<bitter>A taste sensation that is sensed on the back of the tongue and caused by tannins</bitter>
 
-	<bodega>Spanish for winery; literally the 'room where barrels are stored</bodega>
+		<blend>The process whereby two or more grape varieties are combined after separate fermentation</blend>
 
-	<body>A tactile sensation describing the weight and fullness of wine in the mouth.  A wine can be light, medium, or full bodied</body>
+		<blush>A wine made from red grapes but which appears pink or salmon in color because the grape skins were removed from the fermenting juice before more color could be imparted; more commonly referred to as rose</blush>
 
-	<Bordeaux>A city on the Garonne River in southwest France; a large wine-producing region with more than a dozen subregions; a red wine made mostly from Cabernet Sauvignon, Merlot, and Cabernet Franc; a white wine made from Sauvignon Blanc and Semillon</Bordeaux>
+		<bodega>Spanish for winery; literally the 'room where barrels are stored</bodega>
 
-	<botrytis_cinerea>A beneficial mold that pierces the skin of grapes and causes dehydration, resulting in natural grape juice exceptionally high in sugar; common botryt's wines include Sauternes, Tokay, and German beerenauslese (see “noble rot”)</botrytis_cinerea>
+		<body>A tactile sensation describing the weight and fullness of wine in the mouth A wine can be light, medium, or full bodied</body>
 
-	<bouquet>The sum of a wine's aromas; how a wine smells as a whole; a key determinant of quality</bouquet>
+		<Bordeaux>A city on the Garonne River in southwest France; a large wine-producing region with more than a dozen subregions; a red wine made mostly from Cabernet Sauvignon, Merlot, and Cabernet Franc; a white wine made from Sauvignon Blanc and Semillon</Bordeaux>
 
-	<breathe>The process of letting a wine open up via the introduction of air to improve its flavors (see “aeration”)</breathe>
+		<botrytis_cinerea>A beneficial mold that pierces the skin of grapes and causes dehydration, resulting in natural grape juice exceptionally high in sugar; common botryt's wines include Sauternes, Tokay, and German beerenauslese (see &quot;noble rot&quot;)</botrytis_cinerea>
 
-	<brettanomyce>A wine-spoiling yeast that produces barnyard, mousy, metallic, or bandaid-ish aromas</brettanomyce>
+		<bouquet>The sum of a wine's aromas; how a wine smells as a whole; a key determinant of quality</bouquet>
 
-	<brilliant>A tasting note for wines that appear sparkling clear</brilliant>
+		<breathe>The process of letting a wine open up via the introduction of air to improve its flavors (see &quot;aeration&quot;</breathe>
 
-	<brix>A scale used to measure the level of sugar in unfermented grapes. Multiplying brix by 0.55 will yield a wine's future alcohol level</brix>
+		<brettanomyce>A wine-spoiling yeast that produces barnyard, mousy, metallic, or bandaid-ish aromas</brettanomyce>
 
-	<brut>French term denoting dry champagnes or sparkling wines</brut>
+		<brilliant>A tasting note for wines that appear sparkling clear</brilliant>
 
-	<burgundy>A prominent French wine region stretching from Chablis in the north to Lyons in the south; Pinot Noir is the grape for red Burgundy, Chardonnay for white</burgundy>
+		<brix>A scale used to measure the level of sugar in unfermented grapes Multiplying brix by 0.55 will yield a wine's future alcohol level</brix>
 
-	<bung>The plug used to seal a wine barrel</bung>
+		<brut>French term denoting dry champagnes or sparkling wines</brut>
 
-	<bung_hole>The opening in a cask in which wine can be put in or taken out</bung_hole>
+		<burgundy>A prominent French wine region stretching from Chablis in the north to Lyons in the south; Pinot Noir is the grape for red Burgundy, Chardonnay for white</burgundy>
+
+		<bung>The plug used to seal a wine barrel</bung>
+
+		<bung_hole>The opening in a cask in which wine can be put in or taken out</bung_hole>
+</lexicon>
 
 	<cabernet_franc>A red grape common to Bordeaux; characteristics include an herbal, leafy flavor and a soft, fleshy texture</cabernet_franc>
 
@@ -83,17 +89,17 @@
 
 	<cap>Grape solids like pits, skins, and stems that rise to the top of a tank during fermentation; what gives red wines color, tannins and weight</cap>
 
-	<cava>Spanish for 'cellar,' but also a Spanish sparkling wine made in the traditional Champagne style from Xarello, Macabeo, and Parellada grapes</cava>
+	<cava>Spanish for &quot;cellar,&quot; but also a Spanish sparkling wine made in the traditional Champagne style from Xarello, Macabeo, and Parellada grapes</cava>
 
 	<chablis>A town and wine region east of Paris known for steely, minerally Chardonnay</chablis>
 
 	<champagne>A denominated region northeast of Paris in which Chardonnay, Pinot Noir, and Pinot Meunier grapes are made into sparkling wine</champagne>
 
-	<chaptalization>Adding sugar to wine before or during fermentation to increase alcohol levels. Chaptalization is illegal in some parts of the world, and highly controlled in others</chaptalization>
+	<chaptalization>Adding sugar to wine before or during fermentation to increase alcohol levels Chaptalization is illegal in some parts of the world, and highly controlled in others</chaptalization>
 
 	<chardonnay>Arguably the best and most widely planted white wine grape in the world</chardonnay>
 
-	<chateau>French for 'castle;' an estate with its own vineyards</chateau>
+	<chateau>French for &quot;castle;&quot; an estate with its own vineyards</chateau>
 
 	<chenin_blanc>A white grape common in the Loire Valley of France</chenin_blanc>
 
@@ -105,7 +111,7 @@
 
 	<class_growth>See cru classe</class_growth>
 
-	<clos>Pronounced 'Cloh,' this French word once applied only to vineyards surrounded by walls</clos>
+	<clos>Pronounced &quot;Cloh,&quot; this French word once applied only to vineyards surrounded by walls</clos>
 
 	<closed>Term describing underdeveloped and young wines whose flavors are not exhibiting well</closed>
 
@@ -119,25 +125,25 @@
 
 	<crianza>A Spanish term for a red wine that has been aged in oak barrels for at least one year</crianza>
 
-	<cru>A French term for ranking a wineis inherent quality, i.e. cru bourgeois, cru classe, premier cru, and grand cru</cru>
+	<cru>A French term for ranking a wineis inherent quality, ie cru bourgeois, cru classe, premier cru, and grand cru</cru>
 
-	<cru_classé>A top-ranking vineyard designated in the Bordeaux Classification of 1855</cru_classé>
+	<cru_classe>A top-ranking vineyard designated in the Bordeaux Classification of 1855</cru_classe>
 
 	<crush>The English term for harvest</crush>
 
-	<cuvée>In Champagne, a blended batch of wine</cuvée>
+	<cuvee>In Champagne, a blended batch of wine</cuvee>
 
-	<decant>The process of transferring wine from a bottle to another holding vessel. The purpose is generally to aerate a young wine or to separate an older wine from any sediment.</decant>
+	<decant>The process of transferring wine from a bottle to another holding vessel The purpose is generally to aerate a young wine or to separate an older wine from any sediment</decant>
 
-	<demi-sec>French term meaning “half-dry” used to describe a sweet sparkling wine</demi-sec>
+	<demi-sec>French term meaning &quot;half-dry&quot; used to describe a sweet sparkling wine</demi-sec>
 
-	<denominacion_de_origen>Spanish for 'appellation of origin;' like the French AOC or Italian DOC</denominacion_de_origen>
+	<denominacion_de_origen>Spanish for &quot;appellation of origin;&quot; like the French AOC or Italian DOC</denominacion_de_origen>
 
 	<denominazione_di_origine_controllata>Italian for a controlled wine region; similar to the French AOC or Spanish DO</denominazione_di_origine_controllata>
 
 	<disgorge>The process by which final sediments are removed from traditionally made sparkling wines prior to the adding of the dosage</disgorge>
 
-	<dosage>A sweetened spirit added at the very end to Champagne and other traditionally made sparkling wines. It determines whether a wine is brut, extra dry, dry, or semisweet</dosage>
+	<dosage>A sweetened spirit added at the very end to Champagne and other traditionally made sparkling wines It determines whether a wine is brut, extra dry, dry, or semisweet</dosage>
 
 	<douro>A river in Portugal as well as the wine region famous for producing Port wines</douro>
 
@@ -145,45 +151,45 @@
 
 	<earthy>A term used to describe aromas and flavors that have a certain soil-like quality</earthy>
 
-	<enology>The science of wine production; an enologist is a professional winemaker; an enophile is someone who enjoys wine. (see “oenology”)</enology>
+	<enology>The science of wine production; an enologist is a professional winemaker; an enophile is someone who enjoys wine(see &quot;oenology&quot;)</enology>
 
 	<fermentation>The conversion of grape sugars to alcohol by yeast</fermentation>
 
-	<filtration>The process by which wine is clarified before bottling.</filtration>
+	<filtration>The process by which wine is clarified before bottling</filtration>
 
-	<fining>Part of the clarification process whereby elements are added to the wine, i.e. egg whites, in order to capture solids prior to filtration.</fining>
+	<fining>Part of the clarification process whereby elements are added to the wine, ie egg whites, in order to capture solids prior to filtration</fining>
 
 	<finish>The impression of textures and flavors lingering in the mouth after swallowing wine</finish>
 
 	<flavors>Odors perceived in the mouth</flavors>
 
-	<fortified_wine>A wine in which brandy is introduced during fermentation; sugars and sweetness are high due to the suspended fermentation.</fortified_wine>
+	<fortified_wine>A wine in which brandy is introduced during fermentation; sugars and sweetness are high due to the suspended fermentation</fortified_wine>
 
 	<foxy>A term that describes the musty odor and flavor of wines made from vitis labrusca, a common North American varietal</foxy>
 
 	<fruity>A tasting term for wines that exhibit strong smells and flavors of fresh fruit</fruity>
 
-	<full-bodied>A wine high in alcohol and flavors, often described as “big”</full-bodied>
+	<full-bodied>A wine high in alcohol and flavors, often described as &quot;big&quot;</full-bodied>
 
-	<fumé_blanc>A name created by Robert Mondavi to describe dry Sauvignon Blanc</fumé_blanc>
+	<fume_blanc>A name created by Robert Mondavi to describe dry Sauvignon Blanc</fume_blanc>
 
 	<gamay>A red grape exceedingly popular in the Beaujolais region of France</gamay>
 
-	<gewürztraminer>A sweet and spicy white grape popular in eastern France, Germany, Austria, northern Italy, and California</gewürztraminer>
+	<gewurztraminer>A sweet and spicy white grape popular in eastern France, Germany, Austria, northern Italy, and California</gewurztraminer>
 
 	<graft>A vineyard technique in which the bud-producing part of a grapevine is attached to an existing root</graft>
 
 	<gran_reserva>A Spanish term used for wines that are aged in wood and bottles for at least five years prior to release</gran_reserva>
 
-	<grand_cru>French for 'great growth;' the very best vineyards</grand_cru>
+	<grand_cru>French for &quot;great growth;&quot; the very best vineyards</grand_cru>
 
 	<green>A term used to describe underripe, vegetal flavors in a wine</green>
 
 	<grenache>A hearty, productive red grape popular in southern France as well as in Spain, where it is called Garnacha</grenache>
 
-	<grüner_veltliner>A white grape popular in Austria that makes lean, fruity, racy wines</grüner_veltliner>
+	<gruner_veltliner>A white grape popular in Austria that makes lean, fruity, racy wines</gruner_veltliner>
 
-	<haut>A French word meaning 'high'; it applies to quality as well as altitude</haut>
+	<haut>A French word meaning &quot;high&quot; it applies to quality as well as altitude</haut>
 
 	<hectare>A metric measure equal to 10,000 square meters or 2.47 acres</hectare>
 
@@ -209,18 +215,17 @@
 
 	<late_harvest>A term used to describe dessert wines made from grapes left on the vines for an extra long period, often until botrytis has set in</late_harvest>
 
-	<lees>Sediment consisting of dead yeast cells, grape pulp, seed, and other grape matter that accumulates during fermentation</Lees>
+	<lees>Sediment consisting of dead yeast cells, grape pulp, seed, and other grape matter that accumulates during fermentation</lees>
 
-	<leesy>A tasting term for the rich aromas and smells that results from wine resting on its lees</Leesy>
+	<leesy>A tasting term for the rich aromas and smells that results from wine resting on its lees</leesy>
 
 	<legs>A term used to describe how wine sticks to the inside of a wineglass after drinking or swirling</legs>
 
 	<length>The amount of time that flavors persist in the mouth after swallowing wine; a lingering sensation</length>
 
-	<loire>
-    A river in central France as well as a wine region famous for Chenin Blanc, Sauvignon Blanc, and Cabernet Franc</loire>
+	<loire>A river in central France as well as a wine region famous for Chenin Blanc, Sauvignon Blanc, and Cabernet Franc</loire>
 
-    <maceration>The process of allowing grape juice and skins to ferment together, thereby imparting color, tannins, and aromas.</maceration>
+    <maceration>The process of allowing grape juice and skins to ferment together, thereby imparting color, tannins, and aromas</maceration>
 
 	<madeira>A fortified wine that has been made on a Portuguese island off the coast of Morocco since the fifteenth century</madeira>
 
@@ -230,13 +235,13 @@
 
 	<malbec>A hearty red grape of French origin now exceedingly popular in Argentina</malbec>
 
-	<malic_acid>One of the three predominate acids in grapes.  Tart-tasting malic acid occurs naturally in a number of fruits, including, apples, cherries, plums, and tomatoes</malic_acid>
+	<malic_acid>One of the three predominate acids in grapes Tart-tasting malic acid occurs naturally in a number of fruits, including, apples, cherries, plums, and tomatoes</malic_acid>
 
-	<malolactic_fermentation>A secondary fermentation in which the tartness of malic acid in wine is changed into  creamier lactic acid.  Wines described as “buttery” or “creamy” have gone through “malo”</malolactic_fermentation>
+	<malolactic_fermentation>A secondary fermentation in which the tartness of malic acid in wine is changed into  creamier lactic acid  Wines described as &quot;buttery&quot; or &quot;creamy&quot; have gone through &quot;malo&quot;</malolactic_fermentation>
 
 	<mature>Ready to drink</mature>
 
-	<medoc>A section of Bordeaux on the west bank of the Gironde Estuary known for great red wines; Margaux, St.-Estephe, and Pauillac are three leading AOCs in the Medoc</medoc>
+	<medoc>A section of Bordeaux on the west bank of the Gironde Estuary known for great red wines; Margaux, St-Estephe, and Pauillac are three leading AOCs in the Medoc</medoc>
 
 	<merlot>A lauded red grape popular in Bordeaux and throughout the world; large amounts of Merlot exist in Italy, the United States, South America, and elsewhere</merlot>
 
@@ -244,17 +249,17 @@
 
 	<must>Crushed grapes about to go or going through fermentation</must>
 
-	<nebbiolo>A red grape popular in the Piedmont region of northwest Italy; the grape that yields both Barolo and Barbaresco.</nebbiolo>
+	<nebbiolo>A red grape popular in the Piedmont region of northwest Italy; the grape that yields both Barolo and Barbaresco</nebbiolo>
 
-	<negociant>A French term for a person or company that buys wines from others and then labels it under his or her own name; stems from the French word for 'shipper.</negociant>
+	<negociant>A French term for a person or company that buys wines from others and then labels it under his or her own name; stems from the French word for &quot;shipper&quot;</negociant>
 
 	<noble_rot>The layman’s term for botrytis</noble_rot>
 
 	<nose>A tasting term describing the aromas and bouquets of a wine</nose>
 
-	<oaky>A term used to describe woody aromas and flavors; butter, popcorn, and toast notes caused by barrel-aging</oak_oaky>
+	<oaky>A term used to describe woody aromas and flavors; butter, popcorn, and toast notes caused by barrel-aging</oaky>
 
-	<oenology>The science of wine production; an oenologist is a professional winemaker; an oenophile is someone who enjoys wine. (see “enology”)</oenology>
+	<oenology>The science of wine production; an oenologist is a professional winemaker; an oenophile is someone who enjoys wine (see &quot;nology&quot;)</oenology>
 
 	<open>Tasting term signifying a wine that is ready to drink</open>
 
@@ -284,11 +289,11 @@
 
 	<port>A sweet, fortified wine made in the Douro Valley of Portugal and aged in the coastal town of Vila Nova de Gaia; variations include Vintage, Tawny, Late Bottled Vintage, Ruby, White, and others</port>
 
-	<premier_cru>French for 'first growth;' a high-quality vineyard but one not as good as grand cru</premier_cru>
+	<premier_cru>French for &quot;first growth;&quot; a high-quality vineyard but one not as good as grand cru</premier_cru>
 
 	<press>The process by which grape juice is extracted prior to fermentation; a machine that extracts juice from grapes</press>
 
-	<primeur_en>A French term for wine sold while it is sill in the barrels; known as 'futures' in English-speaking countries</primeur_en>
+	<primeur_en>A French term for wine sold while it is sill in the barrels; known as &quot;futures&quot; in English-speaking countries</primeur_en>
 
 	<pruning>The annual vineyard chore of trimming back plants from the previous harvest</pruning>
 
@@ -298,7 +303,7 @@
 
 	<reserve>A largely American term indicating a wine of higher quality; it has no legal meaning</reserve>
 
-	<rhône>A river in southwest France surrounded by villages producing wines mostly from Syrah; the name of the wine-producing valley in France</rhône>
+	<rhone>A river in southwest France surrounded by villages producing wines mostly from Syrah; the name of the wine-producing valley in France</rhone>
 
 	<riddling>The process of rotating Champagne bottles in order to shift sediment toward the cork</riddling>
 
@@ -306,9 +311,9 @@
 
 	<rioja>A well-known region in Spain known for traditional red wines made from the Tempranillo grape</rioja>
 
-	<rough>The tactile “coarse” sensation one experiences with very astringent wines</rough>
+	<rough>The tactile &quot;coarse&quot; sensation one experiences with very astringent wines</rough>
 
-	<rosé>French for "pink" and used to describe a category of refreshing wines that are pink in color but are made from red grapes.</rosé>
+	<rose>French for &quot;pink&quot; and used to describe a category of refreshing wines that are pink in color but are made from red grapes</rose>
 
 	<sancerre>An area in the Loire Valley known mostly for wines made from Sauvignon Blanc</sancerre>
 
@@ -318,9 +323,9 @@
 
 	<sauvignon_blanc>A white grape planted throughout the world; increasingly the signature wine of New Zealand</sauvignon_blanc>
 
-	<sec>French word for “dry”</sec>
+	<sec>French word for &quot;dry&quot;</sec>
 
-	<sémillon>A plump white grape popular in Bordeaux and Australia; the base for Sauternes</sémillon>
+	<semillon>A plump white grape popular in Bordeaux and Australia; the base for Sauternes</semillon>
 
 	<sherry>A fortified wine from a denominated region in southwest Spain; styles include fino, Manzanilla, oloroso, and amontillado</sherry>
 
@@ -358,13 +363,13 @@
 
 	<tempranillo>The most popular red grape in Spain; common in Rioja and Ribera del Duero</tempranillo>
 
-	<terroir>A French term geographical characteristics i.e. the combination of soil, climate, and all other factors that are unique to a given vineyard and that influence the ultimate character of a wine</terroir>
+	<terroir>A French term geographical characteristics ie the combination of soil, climate, and all other factors that are unique to a given vineyard and that influence the ultimate character of a wine</terroir>
 
 	<texture>A tasting term describing how wine feels on the palate</texture>
 
-	<tokay>A dessert wine made in Hungary from dried Furmint grapes.</tokay>
+	<tokay>A dessert wine made in Hungary from dried Furmint grapes</tokay>
 
-	<trocken>German for 'dry'</trocken>
+	<trocken>German for &quot;dry&quot;</trocken>
 
 	<typicity>A tasting term that describes how well a wine expresses the characteristics inherent to the variety of grape</typicity>
 
@@ -372,17 +377,17 @@
 
 	<varietal>A wine made from just one grape type and named after that grape; the opposite of a blend</varietal>
 
-	<vegetal>Tasting term describing characteristics of fresh or cooked vegetables detected on the nose and in the flavors of the wine.  Bell peppers, grass, and asparagus are common “vegetal” descriptors</vegetal>
+	<vegetal>Tasting term describing characteristics of fresh or cooked vegetables detected on the nose and in the flavors of the wine Bell peppers, grass, and asparagus are common &quot;vegetal&quot; descriptors</vegetal>
 
 	<veneto>A large wine-producing region in northern Italy</veneto>
 
 	<vinification>The process of making wine</vinification>
 
-	<vinology>The scientific study of wines and winemaking. Also, the website for the Wine School of Philadelphia</vinology>
+	<vinology>The scientific study of wines and winemaking Also, the website for the Wine School of Philadelphia</vinology>
 
 	<vin_santo>Sweet wine from Tuscany made from late-harvest Trebbiano and Malvasia grapes</vin_santo>
 
-    <vintage>The year a wine is bottled.  Also, the yield of wine from a vineyard during a single season</vintage>
+    <vintage>The year a wine is bottled Also, the yield of wine from a vineyard during a single season</vintage>
 
     <viognier>A fragrant, powerful white grape grown in the Rhone Valley of France and elsewhere</viognier>
 
@@ -390,7 +395,7 @@
 
 	<vitis_vinifera>The species of wine that comprises over 99% of the world’s wine</vitis_vinifera>
 
-	<weight>Similar to “body”, the sensation when a wine feels thick or rich on the palate</weight>
+	<weight>Similar to &quot;body&quot;, the sensation when a wine feels thick or rich on the palate</weight>
 
 	<wine>Fermented juice from grapes</wine>
 
@@ -398,7 +403,7 @@
 
 	<yield>The amount of grapes harvested in a particular year</yield>
 
-	<young>An immature wine that is usually bottled and sold within a year of its vintage.  Wines meant to be drunk “young” are noted for their fresh and crisp flavors</young>
+	<young>An immature wine that is usually bottled and sold within a year of its vintage Wines meant to be drunk &quot;young&quot; are noted for their fresh and crisp flavors</young>
 
 	<zinfandel>A popular grape in California of disputed origin; scientists say it is related to grapes in Croatia and southern Italy</zinfandel>
 
