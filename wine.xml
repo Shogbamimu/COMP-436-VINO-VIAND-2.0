@@ -2,6 +2,9 @@
 <wineDetail>
 
 <wine>
+
+  <!-- APÉRITIF/DIGESTIF -->
+
   <name>Campari</name>
     <additionalname></additionalname>
   <grapes>
@@ -75,6 +78,8 @@
   <foodpairing></foodpairing>
   <tastingnotes></tastingnotes>
 </wine>
+
+  <!-- SPARKLING -->
 
 <wine>
   <name>Cava</name>
@@ -150,6 +155,8 @@
   <foodpairing>Antipasto, cured meats, almonds. It’s also a natural pairing with spicy Asian food</foodpairing>
   <tastingnotes>CGreen Apple, honeydew, pear, lager and cream,</tastingnotes>
 </wine>
+
+  <!-- WHITE-->
 
 <wine>
   <name>Chardonnay</name>
@@ -227,30 +234,7 @@
   <tastingnotes>Delicate citrus (lime water, orange zest)  and pomaceous fruits (apple skin, pear sauce), white floral notes, and cheese rind (from lees usage)</tastingnotes>
 </wine>
 
-<wine>
-  <name></name>
-    <additionalname></additionalname>
-  <grapes>
-    <grape1>Rosé</grape1>
-    <grape2></grape2>
-    <grape3></grape3>
-  </grapes>  
-  <type></type>
-  <style></style>
-  <properties>
-    <residualsugar></residualsugar>
-    <tannins></tannins>
-    <acidity></acidity>
-    <abv></abv>
-  </properties>  
-  <origin>
-    <country></country>
-    <region></region>
-    <subregion></subregion>
-  </origin> 
-  <foodpairing></foodpairing>
-  <tastingnotes></tastingnotes>
-</wine>
+ <!-- ROSÉ-->
 
 <wine>
   <name></name>
@@ -301,6 +285,33 @@
   <foodpairing></foodpairing>
   <tastingnotes></tastingnotes>
 </wine>
+
+<wine>
+  <name></name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Rosé</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type></type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country></country>
+    <region></region>
+    <subregion></subregion>
+  </origin> 
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+<!-- RED -->
 
 <wine>
   <name>Cabernet Sauvignon</name>
@@ -378,30 +389,7 @@
   <tastingnotes>Very red fruited (cherry, cranberry) and red-floral (rose), often with appealing vegetal notes of beet, rhubarb, or mushroom</tastingnotes>
 </wine>
 
-<wine>
-  <name></name>
-    <additionalname></additionalname>
-  <grapes>
-    <grape1></grape1>
-    <grape2></grape2>
-    <grape3></grape3>
-  </grapes>  
-  <type>Dessert</type>
-  <style></style>
-  <properties>
-    <residualsugar></residualsugar>
-    <tannins></tannins>
-    <acidity></acidity>
-    <abv></abv>
-  </properties>  
-  <origin>
-    <country></country>
-    <region></region>
-    <subregion></subregion>
-  </origin>  
-  <foodpairing></foodpairing>
-  <tastingnotes></tastingnotes>
-</wine>
+<!-- DESSERT-->
 
 <wine>
   <name></name>
@@ -452,3 +440,30 @@
   <foodpairing></foodpairing>
   <tastingnotes></tastingnotes>
 </wine>
+
+<wine>
+  <name></name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1></grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Dessert</type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country></country>
+    <region></region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+</wineDetail>
