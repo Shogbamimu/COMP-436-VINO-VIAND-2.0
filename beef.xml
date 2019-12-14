@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="assets/xsl/beef.xsl"?>
+<!-- <?xml-stylesheet type="text/css" href="assets/css/food.css"?> -->
+<foodpairings
+   xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance'
+   xsi:noNamespaceSchemaLocation='beefSchema.xsd'>
+<!-- <foodpairings>-->
+<beef id="101">
+    <cut>Rib Eye</cut>
+    <taste>Deeply beefy and juicy, well-marbled fat and high degree of tenderness
+    </taste>
+    <temperature>Medium rare</temperature>
+    <sauce></sauce>
+    <wine>Napa Valley Cabernet Sauvignon, California Syrah or a spicy Zinfandel</wine>
+</beef>
+<beef id="102">
+    <cut>New York Strip</cut>
+    <taste>Lots of beefy flavor, tender with a nice balance of lean meat to fat
+    </taste>
+    <temperature>Medium rare</temperature>
+    <sauce></sauce>
+    <wine>Cabernet Sauvignon</wine>
+</beef>
+<beef id="103">
+    <cut>Porterhouse</cut>
+    <taste>Buttery on the tenderloin side, beefy and juicy on the strip side</taste>
+    <temperature>Medium rare</temperature>
+    <sauce></sauce>
+    <wine>Syrah-based wines</wine>
+</beef>
+<beef id="104">
+    <cut>Filet Mignon</cut>
+    <taste>Tender, lean, buttery in flavor</taste>
+    <temperature>Medium rare</temperature>
+    <sauce></sauce>
+    <wine>A moderately aged Burgundy or light Pinot Noir</wine>
+</beef>
+</foodpairings> 
