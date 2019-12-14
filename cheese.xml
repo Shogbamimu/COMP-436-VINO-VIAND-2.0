@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!-- <?xml-stylesheet type="text/css" href="assets/css/food.css"?> -->
+<?xml-stylesheet type="text/xsl" href="assets/xsl/cheese.xsl"?> 
+<food_pairings>
+
+<!-- CHEESE -->
+<!--https://vinepair.com/wine-blog/an-illustrated-guide-to-pairing-wine-and-cheese/
+    https://spiritedrose.wordpress.com/cheese/cheese-evaluation/glossary-of-cheese-terms, https://drinks.seriouseats.com/2013/12/guide-to-best-wine-for-cheese-pairing-cheat-sheet-party-cheese-plate-wine-advice.html/
+    https://www.cheese.com/-->
+
+<cheese id="201">
+    <type>Bleu</type>
+    <names></names>
+    <appearance>Marbled cream with blue-green mold</appearance>
+    <aroma>Wet stone, mold, cave, mushroom</aroma>
+    <flavor>Sharp peppery flavor which lingers pleasantly</flavor>
+    <texture>Moist and slightly sticky and tends to crumble</texture>
+    <pairing_notes>Bleu cheeses need wines with both oomph and sweetness to balance their bold flavors and usually very salty, savory body.</pairing_notes>
+    <wine>Red Port, Tawny Port, Sauternes, Oloroso sherry, Banyuls, Recioto, Tokaji</wine>
+</cheese>
+
+<cheese id="202">
+    <type>Fresh and Soft</type>
+    <names>Ricotta, Mozzarella, Burrata, Chèvre, Feta, Halloumi, Brie, Camembert, Brillat-Savarin, Crottin, Bucheron</names>
+    <appearance>Edible, fluffy/furry white, almond colored, ash rind, white or blue mold spots, brainy texture, brown mottling, white or straw colored paste, white exterior and creamy yellow interior</appearance>
+    <aroma>Slightly ammonia, hay, mushroom, mown grass</aroma>
+    <flavor>Mushroomy, buttery, milky, creamy, lemon tang (goat), nutty and sweet</flavor>
+    <texture>Ranging from dry, dense clay to cream-cheesy with liquid under rind, Young: starts out firm and chalky, Middle: flowable and free from any curdiness</texture>
+    <pairing_notes></pairing_notes>
+    <wine>Riesling (dry to sweet), Gewurztraminer, Moscato, Champagne, Cava, Chablis, Chenin Blanc, Pinot Gris, Pinot Grigio, Albariño, Gruner Veltliner, unoaked Chardonnay, Sauvignon Blanc, Provencal rose, Beaujolais, Lambrusco, White Port, Fino sherry</wine>
+</cheese>
+
+<cheese id="203">
+    <type>Semi-hard, Medium-aged</type>
+    <names>Havarti, Edam, Emmental, Gruyère, Jarlsberg, young Cheddar, Monterey Jack, Manchego, Tomme d'Alsace</names>
+    <appearance></appearance>
+    <aroma></aroma>
+    <flavor></flavor>
+    <texture></texture>
+    <pairing_notes>These cheeses have a firmer texture and stronger flavors. They need medium-bodied whites, fruity reds, vintage sparkling wine, and aperitif wines that offer a balance between acidity, fruit, and tannin.</pairing_notes>
+    <wine>Chardonnay, white Burgundy, white Bordeaux, Pinot Blanc, Viognier, white Rhône blends, Riesling (off-dry), Gewurztraminer, Champagne, red Burgundy, Pinot Noir, Beaujolais, Dolcetto, Barbera, Zinfandel, Merlot, vintage Port, young Tawny Port, Amontillado sherry</wine>
+</cheese>
+
+<cheese id="204">
+    <type>Hard-aged</type>
+    <names>Aged Cheddar, Cheshire, Comte, aged Gruyère, aged Gouda, Pecorino, Manchego, Asiago, Parmigiano Reggiano</names>
+    <appearance></appearance>
+    <aroma></aroma>
+    <flavor></flavor>
+    <texture></texture>
+    <pairing_notes>Harder cheeses love full-bodied whites and tannic reds. Their nuttiness also works with oxidative wines like sherry, and their saltiness makes them terrific with sweet wines</pairing_notes>
+    <wine>Aged white Burgundy or Bordeaux, white Rhône blends, sweet Riesling, Viognier, vintage Champagne, Vin Jaune, red Burgundy, red Bordeaux, Cabernet Sauvignon, Barolo, Barbaresco, Nebbiolo, Petite Sirah, California red blends, red Rhône blends, Zinfandel, red Port, Tawny Port, Madeira, Sauternes, Oloroso sherry</wine>
+</cheese>
+
+</food_pairings> 
+<!-- DESSERT -->
+<!-- FRUIT -->
+<!-- GAME -->
+<!-- PASTA -->
+<!-- NOODLES -->
+<!-- RICE -->
+<!-- PORK-->
+<!-- POULTRY-->
+<!-- SALAD-->
+<!-- SEAFOOD-->
+<!-- SOUP-->
+<!-- VEGETABLES-->
