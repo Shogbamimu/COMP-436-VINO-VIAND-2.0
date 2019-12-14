@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="assets/xsl/dessert.xsl"?> 
+<wineDetail> 
+
+<!-- DESSERT-->
+
+<wine>
+  <name></name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1></grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Dessert</type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country></country>
+    <region></region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+<wine>
+  <name></name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1></grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Dessert</type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country></country>
+    <region></region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+<wine>
+  <name></name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1></grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>Dessert</type>
+  <style></style>
+  <properties>
+    <residualsugar></residualsugar>
+    <tannins></tannins>
+    <acidity></acidity>
+    <abv></abv>
+  </properties>  
+  <origin>
+    <country></country>
+    <region></region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing></foodpairing>
+  <tastingnotes></tastingnotes>
+</wine>
+
+</wineDetail>
