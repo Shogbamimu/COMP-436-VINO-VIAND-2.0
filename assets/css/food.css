@@ -1,0 +1,24 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+html{
+	font-family: 'Barlow Semi Condensed', Helvetica, sans-serif;
+	font-weight: bold;
+	text-align: center;
+	background-color:#FFFFFF;
+	border: 3px solid #5F4B8B;
+	opacity: 1;
+
+}
+
+.match cut{
+	font-weight:bold;
+	color:#5F4B8B;
+}
+
+
+
+
