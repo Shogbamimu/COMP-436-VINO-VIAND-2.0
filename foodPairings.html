@@ -8,7 +8,9 @@
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
 	<link rel="stylesheet" type="text/css" href="assets/css/etc.css">
+	<script src="script.js"></script>
 </head>
+
 <body>
 
 <header>
@@ -22,15 +24,16 @@
 	</nav>		
 </header>		
 
+<main>
 <div class="food">
 	<figure>
 		<img src="assets/img/grilled-bone-in-rib-eye-resized.jpg" alt="BEEF | LAMB">
-		<figcaption><a href="index.html" class="button">BEEF | LAMB</a>
+		<figcaption><a href="beef.xml" class="button">BEEF</a>
 		</figcaption>
 	</figure>
 	<figure>
 		<img src="assets/img/100-percent-grade-a-swiss-cheese-serving-board-xl-resized.jpg" alt="CHEESE">
-		<figcaption><a href="index.html" class="button">CHEESE</a>
+		<figcaption><a href="cheese.xml" class="button">CHEESE</a>
 		</figcaption>
 	</figure>
 	<figure>
@@ -84,6 +87,7 @@
 		</figcaption>
 	</figure>
 </div>
+</main>
 
 <section class="endCap">
     <h3 class="join">JOIN:</h3>
@@ -109,20 +113,6 @@
       	<a href="foodPairings.html" class="button"><i class="fas fa-chevron-up"></i></a>
     </ul>
 </footer> 
-
-<script src="https://www.gstatic.com/firebasejs/5.10.0/firebase.js"></script>
-<script>
-  // Initialize Firebase
-  var config = {
-    apiKey: "AIzaSyClzhN0M_XhRdJT3d7mAgE_rwDo_dwdUVM",
-    authDomain: "vino-viand.firebaseapp.com",
-    databaseURL: "https://vino-viand.firebaseio.com",
-    projectId: "vino-viand",
-    storageBucket: "vino-viand.appspot.com",
-    messagingSenderId: "351658760797"
-  };
-  firebase.initializeApp(config);
-</script>
 
 </body>
 </html>
