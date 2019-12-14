@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet type="text/xsl" href="assets/xsl/white.xsl"?> 
+<wineDetail>
+
+  <!-- WHITE-->
+
+<wine>
+  <name>Chardonnay</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Chardonnay</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes> 
+  <type>White</type>
+  <style>Medium-full Body</style>
+  <properties>
+    <residualsugar>Dry</residualsugar>
+    <tannins>None</tannins>
+    <acidity>Medium</acidity>
+    <abv>13.5-15%</abv>
+  </properties>  
+  <origin>
+    <country>France</country>
+    <region>Burgundy</region>
+    <subregion></subregion>
+  </origin> 
+  <foodpairing>Lobster, crab, shrimp, chicken, pork, mushroom, French, cream sauces, soft cheeses such as triple cream brie, medium-firm cheeses like Gruyère
+  </foodpairing>
+  <tastingnotes>Yellow citrus (Meyer lemon), yellow pomaceous fruits (like yellow pear and apple), tropical fruits (banana, pineapple), and often a touch of butterscotch, vanilla or toasted caramel notes from oak</tastingnotes>
+</wine>
+
+<wine>
+  <name>Sauvignon Blanc</name>
+    <additionalname>Fume Blanc</additionalname>
+  <grapes>
+    <grape1>Sauvignon Blanc</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes> 
+  <type>White</type>
+  <style>Light-medium Body</style>
+  <properties>
+    <residualsugar>Dry</residualsugar>
+    <tannins>None</tannins>
+    <acidity>High</acidity>
+    <abv>11.5-13.5%</abv>
+  </properties>  
+  <origin>
+    <country>France</country>
+    <region>Bordeaux</region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Fish, chicken, pork, veal, Mexican, Vietnamese, French, herb-crusted goat cheese, nutty cheeses such as Gruyère</foodpairing>
+  <tastingnotes>Aggressively-citrus-driven (grapefruit pith), with some exotic fruits (honeydew melon, passion fruit, kiwi) and always an herbaceous quality (grass, mint, green pepper)</tastingnotes>
+</wine>
+
+<wine>
+  <name>Pinot Gris</name>
+    <additionalname></additionalname>
+  <grapes>
+    <grape1>Pinot Gris</grape1>
+    <grape2></grape2>
+    <grape3></grape3>
+  </grapes>  
+  <type>White</type>
+  <style>Light Body</style>
+  <properties>
+    <residualsugar>Dry</residualsugar>
+    <tannins>None</tannins>
+    <acidity>Mediun-igh</acidity>
+    <abv>11.5-13.5%</abv>
+  </properties>  
+  <origin>
+    <country>France</country>
+    <region>Burgundy</region>
+    <subregion></subregion>
+  </origin>  
+  <foodpairing>Salad, delicate poached fish, light and mild cheeses</foodpairing>
+  <tastingnotes>Delicate citrus (lime water, orange zest)  and pomaceous fruits (apple skin, pear sauce), white floral notes, and cheese rind (from lees usage)</tastingnotes>
+</wine>
+
+</wineDetail>
